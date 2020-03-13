@@ -1,0 +1,9 @@
+opencv-python
+pandas
+scikit-learn
+keras
+ipywidgets
+matplotlib
+pillow
+pymysql
+numpy==1.16.2
